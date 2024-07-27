@@ -1,6 +1,6 @@
 accelerate
 cpm-kernels==1.0.11
-deepspeed==0.9.5
+deepspeed>=0.9.5
 einops==0.6.1
 flash-attn==1.0.7
 loguru==0.7.0
